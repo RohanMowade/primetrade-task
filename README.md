@@ -1,3 +1,12 @@
+## 🌐 LIVE DEMO
+
+| Service | URL | Status |
+|---------|-----|--------|
+| 🚀 Frontend | https://precious-alpaca-18831d.netlify.app | ✅ Live |
+| ⚙️ Backend API | https://primetrade-task-api.onrender.com | ✅ Live |
+| 📦 GitHub | https://github.com/rohanmowade/primetrade-task | ✅ Public |
+
+> ⚡ Note: Backend on Render free tier may take 5-10 seconds to wake up after inactivity.
 # PrimeTrade Task Manager
 
 ![Node.js](https://img.shields.io/badge/Node.js-18.x-green)
